@@ -1,3 +1,1 @@
-Hello 
-new test
 # Test
